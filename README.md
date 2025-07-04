@@ -8,7 +8,7 @@
 
 I’m a passionate software engineer who loves writing clean, scalable code and building meaningful digital solutions. With a strong foundation in logic and programming, I enjoy turning ideas into real-world applications.
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="145" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 - 🔭 I’m currently working on: Interlocking System.
 - 🌱 Learning: Flask, Postgres, Docker, PowerBI
