@@ -10,7 +10,7 @@ I’m a passionate software engineer who loves writing clean, scalable code and 
 
 <img align="right" height="145" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
-- 🔭 I’m currently working on: Interlocking System.
+- 🔭 I’m currently working on: MES (Interlocking System) Backend Development.
 - 🌱 Learning: Flask, Postgres, Docker, PowerBI
 - 🤝 Open to: Collaborations, freelance projects & hackathons
 - 💬 Ask me about: Web Dev, APIs, Java, Python, or anything tech
